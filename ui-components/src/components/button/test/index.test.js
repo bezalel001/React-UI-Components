@@ -198,7 +198,4 @@ describe( 'the "Button" component', () => {
       buttonWrapper.find( '.btn-outline-danger' ).length
     ).toBe( 1 );
   });
-
-    
-
 });
